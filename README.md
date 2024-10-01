@@ -21,12 +21,12 @@
 
 1. このリポジトリをクローンします：
 
-git clone https://github.com/png_to_mp4/image-to-video-tool.git
+git clone https://github.com/go-numb/png_to_mp4.git
 
 
 2. プロジェクトディレクトリに移動します：
 
-cd image-to-video-tool
+cd png_to_mp4
 
 
 3. Rustの依存関係をインストールします：
